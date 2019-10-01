@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>car_image (123).jpg</filename>
+	<path>D:\models\models\research\object_detection\images\train\car_image (123).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>799</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>101</ymin>
+			<xmax>695</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>
